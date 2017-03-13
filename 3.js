@@ -1,7 +1,7 @@
 //object
 var person = {
-  firstname:'Yu-Che',
-  lastname:'Hsieh',
+  firstname:'Hsuan-Hsiang',
+  lastname:'Fang',
   greet: function() {
     console.log(`Hello,${this.firstname}${this.lastname}`);
   }
