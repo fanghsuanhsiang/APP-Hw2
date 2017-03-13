@@ -1,8 +1,8 @@
 (function(){console.log(this)})();
 
 let person = {
-  firstname: 'Yu-Che',
-  lastname: 'Yu',
+  firstname: 'Hsuan-Hsiang',
+  lastname: 'Fang',
   greet1: function(){
     console.log(this);
   },
