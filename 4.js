@@ -17,5 +17,5 @@ let person = {
 };
 
 person.greet1();
-person.greet2();
+//person.greet2();
 person.greet3();
